@@ -1,0 +1,8 @@
+{
+  "name": "henstag-quote-publish",
+  "private": true,
+  "description": "Netlify Functions para publicar orçamentos do Orçamento Cliente HS (HenStag Portugal) com link partilhável.",
+  "dependencies": {
+    "@netlify/blobs": "^8.2.0"
+  }
+}
